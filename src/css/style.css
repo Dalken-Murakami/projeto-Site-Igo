@@ -62,3 +62,59 @@ a{
 }
 
 /* /header  */
+
+/* section 1 */ 
+.s-1 {
+    width: 100% ;       
+    display: flex; 
+    justify-content: space-between;
+    padding: 0px 0px;
+    align-items: center; 
+  }
+  .s-1 .foto{
+    width: 60%;
+
+}
+.s-1 .texto h1 {
+    font-family: 'Volkhov';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 64px;
+    line-height: 70px;
+/* or 109% */
+
+
+color: #222222;
+}
+  
+.s-1 .texto h1 spam
+{
+  color: #FA7436;
+}
+.s-1 .texto p 
+{
+  color: #FA7436; 
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 40px;
+/* or 200% */
+
+
+/* Paragraph */
+
+color: #666666;
+
+}
+.s-1 .texto button {
+  width: 178px;
+height: 60px;
+border: 1px solid #FA7436;
+border-radius: 5px;
+color: #FA7436;
+background-color: #fff;
+margin-top: 40px;
+cursor: pointer;
+}
+/* /section1 */
+
