@@ -1,14 +1,17 @@
+body{
+    margin : 0;
+    font-family: 'Poppins', sans-serifgit;
+    background: #FEFCFB;
+
+}
 /* header */
+
 .conteiner {
     width: 1170px;
   
     margin: auto;        
 }
-body{
-    margin : 0;
-    font-family: 'Poppins', sans-serifgit;
 
-}
 header{
     width: 100% ;       
     display: flex; 
